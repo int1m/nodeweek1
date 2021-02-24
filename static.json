@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "dirty_c0ke",
+      "Control-Allow-Origin": "*"
+    }
+  }
+}
