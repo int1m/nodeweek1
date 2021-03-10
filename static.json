@@ -4,6 +4,11 @@
       "X-Author": "dirty_c0ke",
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/sample": {
+      "X-Author": "dirty_c0ke",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
