@@ -1,3 +1,1 @@
-function task(x) {
-  return x*Math.pow(x, 2);
-}
+function task(x) { return x * this ** 2; }
